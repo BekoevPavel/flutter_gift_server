@@ -1,0 +1,206 @@
+[
+    {
+        "pin": 2,
+        "value": 1
+    },
+    {
+        "pin": 0,
+        "value": 0
+    },
+    {
+        "pin": 1,
+        "value": 2
+    },
+    {
+        "pin": 2,
+        "value": 4
+    },
+    {
+        "pin": 3,
+        "value": 6
+    },
+    {
+        "pin": 4,
+        "value": 8
+    },
+    {
+        "pin": 5,
+        "value": 10
+    },
+    {
+        "pin": 6,
+        "value": 12
+    },
+    {
+        "pin": 7,
+        "value": 14
+    },
+    {
+        "pin": 8,
+        "value": 16
+    },
+    {
+        "pin": 9,
+        "value": 18
+    },
+    {
+        "pin": 10,
+        "value": 20
+    },
+    {
+        "pin": 11,
+        "value": 22
+    },
+    {
+        "pin": 12,
+        "value": 24
+    },
+    {
+        "pin": 13,
+        "value": 26
+    },
+    {
+        "pin": 14,
+        "value": 28
+    },
+    {
+        "pin": 15,
+        "value": 30
+    },
+    {
+        "pin": 16,
+        "value": 32
+    },
+    {
+        "pin": 17,
+        "value": 34
+    },
+    {
+        "pin": 18,
+        "value": 36
+    },
+    {
+        "pin": 19,
+        "value": 38
+    },
+    {
+        "pin": 20,
+        "value": 40
+    },
+    {
+        "pin": 21,
+        "value": 42
+    },
+    {
+        "pin": 22,
+        "value": 44
+    },
+    {
+        "pin": 23,
+        "value": 46
+    },
+    {
+        "pin": 24,
+        "value": 48
+    },
+    {
+        "pin": 25,
+        "value": 50
+    },
+    {
+        "pin": 26,
+        "value": 52
+    },
+    {
+        "pin": 27,
+        "value": 54
+    },
+    {
+        "pin": 28,
+        "value": 56
+    },
+    {
+        "pin": 29,
+        "value": 58
+    },
+    {
+        "pin": 30,
+        "value": 60
+    },
+    {
+        "pin": 31,
+        "value": 62
+    },
+    {
+        "pin": 32,
+        "value": 64
+    },
+    {
+        "pin": 33,
+        "value": 66
+    },
+    {
+        "pin": 34,
+        "value": 68
+    },
+    {
+        "pin": 35,
+        "value": 70
+    },
+    {
+        "pin": 36,
+        "value": 72
+    },
+    {
+        "pin": 37,
+        "value": 74
+    },
+    {
+        "pin": 38,
+        "value": 76
+    },
+    {
+        "pin": 39,
+        "value": 78
+    },
+    {
+        "pin": 40,
+        "value": 80
+    },
+    {
+        "pin": 41,
+        "value": 82
+    },
+    {
+        "pin": 42,
+        "value": 84
+    },
+    {
+        "pin": 43,
+        "value": 86
+    },
+    {
+        "pin": 44,
+        "value": 88
+    },
+    {
+        "pin": 45,
+        "value": 90
+    },
+    {
+        "pin": 46,
+        "value": 92
+    },
+    {
+        "pin": 47,
+        "value": 94
+    },
+    {
+        "pin": 48,
+        "value": 96
+    },
+    {
+        "pin": 49,
+        "value": 98
+    }
+]
